@@ -1,0 +1,47 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #e3f2fd;
+}
+nav {
+  background-color: #e3f2fd;
+  height: 50px;
+}
+span {
+  padding: 20px;
+}
+
+h3 {
+  margin: 10px;
+  padding: 10px;
+}
+
+.widget {
+  margin: 20px;
+  padding: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+.widget_components {
+  margin: 20px;
+  float: left;
+  width: 40% vw;
+}
+
+.widget_components h5 {
+  margin: 10px;
+}
+
+.widget_components p {
+  margin: 13px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border: 1px light gray;
+  border-radius: 7px;
+}
